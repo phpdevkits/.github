@@ -11,7 +11,6 @@ Thousands of companies waste development hours building integrations from scratc
 - **Ortto SDK** - Complete Laravel integration for Ortto
 - **Data Factory** - Framework-agnostic testing utilities
 - **Laravel Cloud SDK** - Complete Laravel integration for Laravel Cloud (coming soon)
-- **[Next SDK]** - Coming soon
 
 ## Who This Helps
 
